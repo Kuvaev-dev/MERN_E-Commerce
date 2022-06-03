@@ -3,8 +3,7 @@
 
 ## Demo: https://devat-ecommerce.herokuapp.com/
 
-## Author: Dev AT
-## Youtube tutorials: https://youtu.be/AjItjNc0bHA
+## Author: Kuvaev Nikita
 
 ## Install dependencies for server 
 ### `npm install`
