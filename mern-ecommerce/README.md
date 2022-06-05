@@ -26,6 +26,15 @@
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
+### Environment variables:
+### `MONGODB_URL = Your Mongo URI`
+### `CLOUD_API_KEY = Your Cloudinary API key`
+### `CLOUD_API_SECRET = Your Cloudinary API secret`
+### `CLOUD_NAME = Your Cloudinary cloud name`
+### `REFRESH_TOKEN_SECRET = Your JWT refresh token`
+### `ACCESS_TOKEN_SECRET = Your JWT access token`
+### `NODE_ENV = Your production build option` 
+
 ### User interface 
 
 ![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568147/test/1_pe9ism.png)
